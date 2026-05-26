@@ -7,7 +7,7 @@
         "database": "u875409848_avila"
     },
     "secret": "ANY_SECRET_STRING",
-    "emailFrom": "noreply.com",
+    "emailFrom": "noreply@example.com",
     "smtpOptions": {
         "host": "sandbox.smtp.mailtrap.io",
         "port": 2525,
